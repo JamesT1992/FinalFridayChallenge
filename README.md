@@ -1,7 +1,7 @@
 # FinalFridayChallenge
 
 # What Was the Challenge?
-The challenge was the write an Ansible playbook that would install docker on my local machine. The stretch goal was then to use Ansible to create roles that would add NGINX into a Docker container.
+The challenge was the write an Ansible playbook that would install docker locally on my virtual machine. The stretch goal was then to use Ansible to create roles that would add NGINX into a Docker container.
 
 # How I expected the challenge to go?
 I expected the challenge to encompass a lot of content as it was our last challenge, so my expectation was that it was going to be difficult to complete.
